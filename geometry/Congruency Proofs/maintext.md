@@ -110,7 +110,7 @@ When we know all of the angle measures, we can use the two that are adjacent to 
 
 <b>Proof:</b> Using the Pythaegorean Theorem, we can find the third side of the triangle, if we already know two sides.
 
-$(hypotenuse)^2$ = $(leg1^2) + (leg 2^2)$
+$(hypotenuse)^2$ = $(leg1)^2 + (leg 2)^2$
 
 </center>
 
