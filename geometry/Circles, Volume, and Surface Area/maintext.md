@@ -138,7 +138,7 @@ Formula = $SA = 6a^2$, where $a$ is the edge of the cube.
 
 <b>Surface Area of a Rectangular Prism:</b>
 
-Formula = $SA = 2w*h + 2w*l + 2h*l$, where $w$ is the width of the prism, $h$ is the height of the prism, and $l$is the length of the prism.
+Formula = $SA = 2w*h + 2w*l + 2h*l $, where $w$ is the width of the prism, $h$ is the height of the prism, and $l$is the length of the prism.
 
 </li>
 
