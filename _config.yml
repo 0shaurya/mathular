@@ -1,10 +1,9 @@
 title: Mathular
 description: Mathular is a website which aims to provide both theoretical and visual content for mathematics.
 url: "https://mathular.com" # base hostname of the website
-markdown: kramdown
 github_username: ShivamVashishtha
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
