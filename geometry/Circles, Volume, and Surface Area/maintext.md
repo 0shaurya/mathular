@@ -116,7 +116,7 @@ Formula = $V = πr^2h/3$, where $r$ is the radius of the cone, and $h$ is the he
 
 <b>Volume of a Pyramid:</b>
 
-Formula = $V = l*w*\frac{h}{3}$, where $w$ is the width of the pyramid, $h$ is the height of the pyramid, and $l$ is the base length of the pyramid.
+Formula = $V = l * w * (\frac{h}{3})$, where $w$ is the width of the pyramid, $h$ is the height of the pyramid, and $l$ is the base length of the pyramid.
 
 </li></p>
 
