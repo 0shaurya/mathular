@@ -5,7 +5,7 @@ url: "https://mathular.com" # base hostname of the website
 github_username: ShivamVashishtha
   
 # Build settings
-theme: just-the-docs/just-the-docs
+theme: minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one 
 - jemoji
