@@ -1,55 +1,13 @@
 # Mathular
 
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-<!-- MATHULAR LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/0shaurya/mathular">
-    <img src="https://cdn.discordapp.com/attachments/849344589709574215/1002065976461905950/Screen_Shot_2022-07-27_at_11.11.41_PM.png" alt="Logo" width="110" height="120"> <br>
-    <img src="https://cdn.discordapp.com/attachments/849344589709574215/1002065976138932325/Screen_Shot_2022-07-27_at_11.12.04_PM.png" alt="Logo" width="280" height="70">
-  </a>
-
-<h3 align="center">Mathular</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/0shaurya/mathular"><strong>Explore the code</strong></a>
-    <br />
-  </p>
-</div>
-
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://mathular.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- BUILT WITH -->
 ## Built With
-
-* ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
-* ![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
-* ![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)
-* ![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)
-* ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-* ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
-* ![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)
-* ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-* ![shields](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400)
-* ![shields](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -83,22 +41,6 @@ Share this website with your friends as well, so that they can also use this web
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-We request you to not make any edits to the code itself.
-
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
